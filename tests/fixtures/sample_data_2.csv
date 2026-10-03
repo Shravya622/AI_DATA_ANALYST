@@ -1,0 +1,13 @@
+date,region,product,revenue,units_sold,discount_pct
+2024-01-05,East,Laptop,4200.5,14,0.1
+2024-02-12,West,Phone,3150.75,21,0.15
+2024-03-08,North,Tablet,5280.0,18,0.05
+2024-04-16,South,Monitor,2875.25,11,0.2
+2024-05-21,East,Phone,3620.4,24,0.12
+2024-06-10,North,Laptop,6140.8,16,0.08
+2024-07-14,West,Monitor,2985.6,13,0.18
+2024-08-19,South,Tablet,3410.9,20,0.1
+2024-09-03,North,Phone,4550.3,27,0.07
+2024-10-27,East,Laptop,5725.15,15,0.05
+2024-11-11,South,Monitor,2640.0,12,0.22
+2024-12-18,West,Tablet,3895.45,22,0.14
