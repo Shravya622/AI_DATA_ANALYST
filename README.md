@@ -8,7 +8,7 @@ An AI-powered web application that lets users upload CSV datasets and ask questi
 
 [Watch Demo Video](https://drive.google.com/file/d/1cjO_DmBWrg_xUGmtYQOSYj76AKMzERgf/view?usp=sharing)
 
-> Replace the link above with the final submitted demo URL before submission.
+
 
 ---
 
@@ -26,7 +26,7 @@ An AI-powered web application that lets users upload CSV datasets and ask questi
 |---|---|
 | ![Anomalies](docs/screenshots/05-anomaly-detection.png) | |
 
-> Screenshot files are expected at the paths shown above. Add them before final submission.
+
 
 ---
 
@@ -477,13 +477,3 @@ pytest tests/unit/test_multi_file_analysis.py -v
 
 ---
 
-## Final Submission Checklist
-
-- [x] Source code — complete backend and frontend implementation
-- [x] README — this document
-- [x] Architecture documentation — `docs/architecture.md`
-- [x] Sample dataset — `tests/fixtures/sample_data.csv` and `tests/fixtures/sample_data_2.csv`
-- [x] Docker support — multi-stage `Dockerfile`
-- [x] Test suite — 736 tests across unit, integration, and property-based categories
-- [ ] Screenshots — add to `docs/screenshots/` before submission
-- [ ] Demo video link — replace `YOUR_DEMO_VIDEO_LINK` placeholder above before submission
